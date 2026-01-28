@@ -1,2 +1,2 @@
-# Applications of geospatial data and artificial intelligence (GeoAI) in water resources
+# Applications and use of Large Language Models (LLMs)
 
